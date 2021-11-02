@@ -1,6 +1,6 @@
 {
   "name": "@mck-p/async-iterables",
-  "version": "0.0.1-ALPHA",
+  "version": "0.0.1-ALPHA-1",
   "description": "A way to deal with everything as async iterables",
   "main": "dist/index.js",
   "scripts": {
@@ -23,5 +23,14 @@
   "dependencies": {
     "tsconfig-paths": "3.11.0"
   },
-  "private": false
+  "private": false,
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mck-p/async-iterables.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mck-p/async-iterables/issues"
+  },
+  "homepage": "https://github.com/mck-p/async-iterables#readme"
 }
