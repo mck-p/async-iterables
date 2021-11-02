@@ -1,6 +1,6 @@
 {
   "name": "@mck-p/async-iterables",
-  "version": "0.0.1-ALPHA-1",
+  "version": "0.0.1-ALPHA-2",
   "description": "A way to deal with everything as async iterables",
   "main": "dist/index.js",
   "scripts": {
