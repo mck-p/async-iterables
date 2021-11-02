@@ -1,0 +1,1 @@
+export type InnerIterable<T> = Iterable<T> | AsyncIterable<T> | ReadableStream<T> | AsyncGenerator<T> | Generator<T>
